@@ -1,4 +1,4 @@
-first_app
+# Ruby on Rails first application
 =========
 
-First application with Ruby on Rails.
+First application with [*Ruby on Rails.*] practice.
